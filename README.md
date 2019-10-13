@@ -35,9 +35,9 @@ font-family: ‘Rubik’, sans-serif;
 ```
 colors:
 ```css
-#292929 
-#00d7e6 
-#ffffff  
+# 292929,
+# 00d7e6,
+# ffffff;
 rgb(41, 41, 41);
 rgb(0, 215, 230);
 rgb(41, 41, 41);
