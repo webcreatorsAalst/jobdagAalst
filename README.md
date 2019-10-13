@@ -35,8 +35,12 @@ font-family: ‘Rubik’, sans-serif;
 ```
 colors:
 ```css
-# 292929 # 00d7e6 # ffffff  
-R41 G41 B41 R0 G215 B230 R255 G255 B255
+#292929 
+#00d7e6 
+#ffffff  
+rgb(41, 41, 41);
+rgb(0, 215, 230);
+rgb(41, 41, 41);
 ```
 header, footer:
 css:
