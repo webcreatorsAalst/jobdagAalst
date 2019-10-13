@@ -9,6 +9,7 @@ deadline 25/10
 | about/aboutUs |   |     |     |
 | footer | footer | footer |  footer |
 
+![jobdag layout img](./img/styleInfo.png "example")
 
 bg:
 body {
